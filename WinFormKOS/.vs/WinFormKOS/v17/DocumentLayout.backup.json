@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\talha\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme projesi\\Geli\u015Ftirme\\WinFormKOS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{172A0D1F-B4FF-4A43-A441-F68A987D6757}|WinFormKOS\\WinFormKOS.csproj|C:\\Users\\talha\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme projesi\\Geli\u015Ftirme\\WinFormKOS\\winformkos\\formhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{172A0D1F-B4FF-4A43-A441-F68A987D6757}|WinFormKOS\\WinFormKOS.csproj|solutionrelative:winformkos\\formhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172A0D1F-B4FF-4A43-A441-F68A987D6757}|WinFormKOS\\WinFormKOS.csproj|C:\\Users\\talha\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme projesi\\Geli\u015Ftirme\\WinFormKOS\\winformkos\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{172A0D1F-B4FF-4A43-A441-F68A987D6757}|WinFormKOS\\WinFormKOS.csproj|solutionrelative:winformkos\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172A0D1F-B4FF-4A43-A441-F68A987D6757}|WinFormKOS\\WinFormKOS.csproj|C:\\Users\\talha\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme projesi\\Geli\u015Ftirme\\WinFormKOS\\winformkos\\formistatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{172A0D1F-B4FF-4A43-A441-F68A987D6757}|WinFormKOS\\WinFormKOS.csproj|solutionrelative:winformkos\\formistatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172A0D1F-B4FF-4A43-A441-F68A987D6757}|WinFormKOS\\WinFormKOS.csproj|C:\\Users\\talha\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme projesi\\Geli\u015Ftirme\\WinFormKOS\\winformkos\\formokuyucuekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{172A0D1F-B4FF-4A43-A441-F68A987D6757}|WinFormKOS\\WinFormKOS.csproj|solutionrelative:winformkos\\formokuyucuekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172A0D1F-B4FF-4A43-A441-F68A987D6757}|WinFormKOS\\WinFormKOS.csproj|c:\\users\\talha\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi\\geli\u015Ftirme\\winformkos\\winformkos\\model\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172A0D1F-B4FF-4A43-A441-F68A987D6757}|WinFormKOS\\WinFormKOS.csproj|solutionrelative:winformkos\\model\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172A0D1F-B4FF-4A43-A441-F68A987D6757}|WinFormKOS\\WinFormKOS.csproj|C:\\Users\\talha\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme projesi\\Geli\u015Ftirme\\WinFormKOS\\winformkos\\formokuyucuekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172A0D1F-B4FF-4A43-A441-F68A987D6757}|WinFormKOS\\WinFormKOS.csproj|solutionrelative:winformkos\\formokuyucuekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172A0D1F-B4FF-4A43-A441-F68A987D6757}|WinFormKOS\\WinFormKOS.csproj|C:\\Users\\talha\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme projesi\\Geli\u015Ftirme\\WinFormKOS\\winformkos\\formkitapekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{172A0D1F-B4FF-4A43-A441-F68A987D6757}|WinFormKOS\\WinFormKOS.csproj|solutionrelative:winformkos\\formkitapekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172A0D1F-B4FF-4A43-A441-F68A987D6757}|WinFormKOS\\WinFormKOS.csproj|C:\\Users\\talha\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme projesi\\Geli\u015Ftirme\\WinFormKOS\\winformkos\\formkurulum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{172A0D1F-B4FF-4A43-A441-F68A987D6757}|WinFormKOS\\WinFormKOS.csproj|solutionrelative:winformkos\\formkurulum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172A0D1F-B4FF-4A43-A441-F68A987D6757}|WinFormKOS\\WinFormKOS.csproj|C:\\Users\\talha\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme projesi\\Geli\u015Ftirme\\WinFormKOS\\winformkos\\formemanet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{172A0D1F-B4FF-4A43-A441-F68A987D6757}|WinFormKOS\\WinFormKOS.csproj|solutionrelative:winformkos\\formemanet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172A0D1F-B4FF-4A43-A441-F68A987D6757}|WinFormKOS\\WinFormKOS.csproj|C:\\Users\\talha\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme projesi\\Geli\u015Ftirme\\WinFormKOS\\winformkos\\formedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{172A0D1F-B4FF-4A43-A441-F68A987D6757}|WinFormKOS\\WinFormKOS.csproj|solutionrelative:winformkos\\formedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormIstatistik.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\talha\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme projesi\\Geli\u015Ftirme\\WinFormKOS\\WinFormKOS\\FormIstatistik.cs",
+              "RelativeDocumentMoniker": "WinFormKOS\\FormIstatistik.cs",
+              "ToolTip": "C:\\Users\\talha\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme projesi\\Geli\u015Ftirme\\WinFormKOS\\WinFormKOS\\FormIstatistik.cs [Tasar\u0131m]",
+              "RelativeToolTip": "WinFormKOS\\FormIstatistik.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T08:00:48.899Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormHome.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\talha\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme projesi\\Geli\u015Ftirme\\WinFormKOS\\WinFormKOS\\FormHome.cs",
+              "RelativeDocumentMoniker": "WinFormKOS\\FormHome.cs",
+              "ToolTip": "C:\\Users\\talha\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme projesi\\Geli\u015Ftirme\\WinFormKOS\\WinFormKOS\\FormHome.cs [Tasar\u0131m]",
+              "RelativeToolTip": "WinFormKOS\\FormHome.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T08:00:47.222Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormLogin.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\talha\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme projesi\\Geli\u015Ftirme\\WinFormKOS\\WinFormKOS\\FormLogin.cs",
+              "RelativeDocumentMoniker": "WinFormKOS\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\talha\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme projesi\\Geli\u015Ftirme\\WinFormKOS\\WinFormKOS\\FormLogin.cs [Tasar\u0131m]",
+              "RelativeToolTip": "WinFormKOS\\FormLogin.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T08:00:52.444Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDataBase.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme projesi\\Geli\u015Ftirme\\WinFormKOS\\WinFormKOS\\Model\\IDataBase.cs",
+              "RelativeDocumentMoniker": "WinFormKOS\\Model\\IDataBase.cs",
+              "ToolTip": "C:\\Users\\talha\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme projesi\\Geli\u015Ftirme\\WinFormKOS\\WinFormKOS\\Model\\IDataBase.cs",
+              "RelativeToolTip": "WinFormKOS\\Model\\IDataBase.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwEIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T08:05:44.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormOkuyucuEkle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\talha\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme projesi\\Geli\u015Ftirme\\WinFormKOS\\WinFormKOS\\FormOkuyucuEkle.cs",
+              "RelativeDocumentMoniker": "WinFormKOS\\FormOkuyucuEkle.cs",
+              "ToolTip": "C:\\Users\\talha\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme projesi\\Geli\u015Ftirme\\WinFormKOS\\WinFormKOS\\FormOkuyucuEkle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "WinFormKOS\\FormOkuyucuEkle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T08:00:53.722Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormOkuyucuEkle.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme projesi\\Geli\u015Ftirme\\WinFormKOS\\WinFormKOS\\FormOkuyucuEkle.cs",
+              "RelativeDocumentMoniker": "WinFormKOS\\FormOkuyucuEkle.cs",
+              "ToolTip": "C:\\Users\\talha\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme projesi\\Geli\u015Ftirme\\WinFormKOS\\WinFormKOS\\FormOkuyucuEkle.cs",
+              "RelativeToolTip": "WinFormKOS\\FormOkuyucuEkle.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAowKIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T08:02:55.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormKitapEkle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\talha\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme projesi\\Geli\u015Ftirme\\WinFormKOS\\WinFormKOS\\FormKitapEkle.cs",
+              "RelativeDocumentMoniker": "WinFormKOS\\FormKitapEkle.cs",
+              "ToolTip": "C:\\Users\\talha\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme projesi\\Geli\u015Ftirme\\WinFormKOS\\WinFormKOS\\FormKitapEkle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "WinFormKOS\\FormKitapEkle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T08:00:50.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormKurulum.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\talha\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme projesi\\Geli\u015Ftirme\\WinFormKOS\\WinFormKOS\\FormKurulum.cs",
+              "RelativeDocumentMoniker": "WinFormKOS\\FormKurulum.cs",
+              "ToolTip": "C:\\Users\\talha\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme projesi\\Geli\u015Ftirme\\WinFormKOS\\WinFormKOS\\FormKurulum.cs [Tasar\u0131m]",
+              "RelativeToolTip": "WinFormKOS\\FormKurulum.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T08:00:51.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormEmanet.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\talha\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme projesi\\Geli\u015Ftirme\\WinFormKOS\\WinFormKOS\\FormEmanet.cs",
+              "RelativeDocumentMoniker": "WinFormKOS\\FormEmanet.cs",
+              "ToolTip": "C:\\Users\\talha\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme projesi\\Geli\u015Ftirme\\WinFormKOS\\WinFormKOS\\FormEmanet.cs [Tasar\u0131m]",
+              "RelativeToolTip": "WinFormKOS\\FormEmanet.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T08:00:45.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormEdit.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\talha\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme projesi\\Geli\u015Ftirme\\WinFormKOS\\WinFormKOS\\FormEdit.cs",
+              "RelativeDocumentMoniker": "WinFormKOS\\FormEdit.cs",
+              "ToolTip": "C:\\Users\\talha\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme projesi\\Geli\u015Ftirme\\WinFormKOS\\WinFormKOS\\FormEdit.cs [Tasar\u0131m]",
+              "RelativeToolTip": "WinFormKOS\\FormEdit.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T08:00:38.329Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
